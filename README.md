@@ -8,7 +8,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/💬_Hire_Me_on_WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/923264465340)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=hammad-dev&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/hammad-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=HammadAnwaar&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/HammadAnwaar)
 
 </div>
 
@@ -160,7 +160,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/923264465340)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad-dev)
+[![GitHub](https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HammadAnwaar)
 
 <br/>
 
