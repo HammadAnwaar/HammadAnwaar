@@ -125,27 +125,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hammad-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=6C63FF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=6C63FF&currStreakLabel=A78BFA" width="60%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hammad-dev&theme=discord&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-
----
-
 ## 💼 My Work Process
 
 <div align="center">
